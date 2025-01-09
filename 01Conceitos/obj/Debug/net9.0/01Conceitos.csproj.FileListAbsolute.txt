@@ -1,0 +1,14 @@
+C:\Users\arthu\Poo\01Conceitos\bin\Debug\net9.0\01Conceitos.exe
+C:\Users\arthu\Poo\01Conceitos\bin\Debug\net9.0\01Conceitos.deps.json
+C:\Users\arthu\Poo\01Conceitos\bin\Debug\net9.0\01Conceitos.runtimeconfig.json
+C:\Users\arthu\Poo\01Conceitos\bin\Debug\net9.0\01Conceitos.dll
+C:\Users\arthu\Poo\01Conceitos\bin\Debug\net9.0\01Conceitos.pdb
+C:\Users\arthu\Poo\01Conceitos\obj\Debug\net9.0\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Poo\01Conceitos\obj\Debug\net9.0\01Conceitos.AssemblyInfoInputs.cache
+C:\Users\arthu\Poo\01Conceitos\obj\Debug\net9.0\01Conceitos.AssemblyInfo.cs
+C:\Users\arthu\Poo\01Conceitos\obj\Debug\net9.0\01Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Poo\01Conceitos\obj\Debug\net9.0\01Conceitos.dll
+C:\Users\arthu\Poo\01Conceitos\obj\Debug\net9.0\refint\01Conceitos.dll
+C:\Users\arthu\Poo\01Conceitos\obj\Debug\net9.0\01Conceitos.pdb
+C:\Users\arthu\Poo\01Conceitos\obj\Debug\net9.0\01Conceitos.genruntimeconfig.cache
+C:\Users\arthu\Poo\01Conceitos\obj\Debug\net9.0\ref\01Conceitos.dll
