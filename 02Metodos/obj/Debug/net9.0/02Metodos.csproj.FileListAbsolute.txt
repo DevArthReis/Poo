@@ -1,0 +1,15 @@
+C:\Users\arthu\Poo\02Metodos\obj\Debug\net9.0\02Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Poo\02Metodos\obj\Debug\net9.0\02Metodos.AssemblyInfoInputs.cache
+C:\Users\arthu\Poo\02Metodos\obj\Debug\net9.0\02Metodos.AssemblyInfo.cs
+C:\Users\arthu\Poo\02Metodos\obj\Debug\net9.0\02Metodos.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Poo\02Metodos\obj\Debug\net9.0\02Metodos.sourcelink.json
+C:\Users\arthu\Poo\02Metodos\bin\Debug\net9.0\02Metodos.exe
+C:\Users\arthu\Poo\02Metodos\bin\Debug\net9.0\02Metodos.deps.json
+C:\Users\arthu\Poo\02Metodos\bin\Debug\net9.0\02Metodos.runtimeconfig.json
+C:\Users\arthu\Poo\02Metodos\bin\Debug\net9.0\02Metodos.dll
+C:\Users\arthu\Poo\02Metodos\bin\Debug\net9.0\02Metodos.pdb
+C:\Users\arthu\Poo\02Metodos\obj\Debug\net9.0\02Metodos.dll
+C:\Users\arthu\Poo\02Metodos\obj\Debug\net9.0\refint\02Metodos.dll
+C:\Users\arthu\Poo\02Metodos\obj\Debug\net9.0\02Metodos.pdb
+C:\Users\arthu\Poo\02Metodos\obj\Debug\net9.0\02Metodos.genruntimeconfig.cache
+C:\Users\arthu\Poo\02Metodos\obj\Debug\net9.0\ref\02Metodos.dll
