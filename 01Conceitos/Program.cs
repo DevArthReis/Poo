@@ -22,6 +22,12 @@ namespace _01Conceitos//namespace = pasta do arquivo
        objcarro.nome = "CIVIC";
        objcarro.placa = 99993821;
        objcarro.resumo();
+       Usuario Objeto = new Usuario();
+       Objeto.name = "Arthu";
+       Objeto.id = 01;
+       Objeto.password = "arthur1234";
+       Objeto.email = "Arthur@gmail.com";
+       Objeto.resumo();
        
        
 
