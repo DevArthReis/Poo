@@ -28,6 +28,11 @@ namespace _01Conceitos//namespace = pasta do arquivo
        Objeto.password = "arthur1234";
        Objeto.email = "Arthur@gmail.com";
        Objeto.resumo();
+       Cadastro objetinho = new Cadastro();
+       objetinho.usuario_name = "Arthur";
+       objetinho.usuario_id = 01;
+       objetinho.usuario_email = "Arthur@gmail.com";
+       objetinho.usuario();
        
        
 
