@@ -1,0 +1,15 @@
+C:\Users\arthu\Poo\04ExercicioImc\obj\Debug\net9.0\04ExercicioImc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Poo\04ExercicioImc\obj\Debug\net9.0\04ExercicioImc.AssemblyInfoInputs.cache
+C:\Users\arthu\Poo\04ExercicioImc\obj\Debug\net9.0\04ExercicioImc.AssemblyInfo.cs
+C:\Users\arthu\Poo\04ExercicioImc\obj\Debug\net9.0\04ExercicioImc.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Poo\04ExercicioImc\obj\Debug\net9.0\04ExercicioImc.sourcelink.json
+C:\Users\arthu\Poo\04ExercicioImc\bin\Debug\net9.0\04ExercicioImc.exe
+C:\Users\arthu\Poo\04ExercicioImc\bin\Debug\net9.0\04ExercicioImc.deps.json
+C:\Users\arthu\Poo\04ExercicioImc\bin\Debug\net9.0\04ExercicioImc.runtimeconfig.json
+C:\Users\arthu\Poo\04ExercicioImc\bin\Debug\net9.0\04ExercicioImc.dll
+C:\Users\arthu\Poo\04ExercicioImc\bin\Debug\net9.0\04ExercicioImc.pdb
+C:\Users\arthu\Poo\04ExercicioImc\obj\Debug\net9.0\04ExercicioImc.dll
+C:\Users\arthu\Poo\04ExercicioImc\obj\Debug\net9.0\refint\04ExercicioImc.dll
+C:\Users\arthu\Poo\04ExercicioImc\obj\Debug\net9.0\04ExercicioImc.pdb
+C:\Users\arthu\Poo\04ExercicioImc\obj\Debug\net9.0\04ExercicioImc.genruntimeconfig.cache
+C:\Users\arthu\Poo\04ExercicioImc\obj\Debug\net9.0\ref\04ExercicioImc.dll
