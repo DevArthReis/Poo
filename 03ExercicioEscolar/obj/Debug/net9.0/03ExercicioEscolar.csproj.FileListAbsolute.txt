@@ -1,0 +1,15 @@
+C:\Users\arthu\Poo\03ExercicioEscolar\obj\Debug\net9.0\03ExercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Poo\03ExercicioEscolar\obj\Debug\net9.0\03ExercicioEscolar.AssemblyInfoInputs.cache
+C:\Users\arthu\Poo\03ExercicioEscolar\obj\Debug\net9.0\03ExercicioEscolar.AssemblyInfo.cs
+C:\Users\arthu\Poo\03ExercicioEscolar\obj\Debug\net9.0\03ExercicioEscolar.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Poo\03ExercicioEscolar\obj\Debug\net9.0\03ExercicioEscolar.sourcelink.json
+C:\Users\arthu\Poo\03ExercicioEscolar\bin\Debug\net9.0\03ExercicioEscolar.exe
+C:\Users\arthu\Poo\03ExercicioEscolar\bin\Debug\net9.0\03ExercicioEscolar.deps.json
+C:\Users\arthu\Poo\03ExercicioEscolar\bin\Debug\net9.0\03ExercicioEscolar.runtimeconfig.json
+C:\Users\arthu\Poo\03ExercicioEscolar\bin\Debug\net9.0\03ExercicioEscolar.dll
+C:\Users\arthu\Poo\03ExercicioEscolar\bin\Debug\net9.0\03ExercicioEscolar.pdb
+C:\Users\arthu\Poo\03ExercicioEscolar\obj\Debug\net9.0\03ExercicioEscolar.dll
+C:\Users\arthu\Poo\03ExercicioEscolar\obj\Debug\net9.0\refint\03ExercicioEscolar.dll
+C:\Users\arthu\Poo\03ExercicioEscolar\obj\Debug\net9.0\03ExercicioEscolar.pdb
+C:\Users\arthu\Poo\03ExercicioEscolar\obj\Debug\net9.0\03ExercicioEscolar.genruntimeconfig.cache
+C:\Users\arthu\Poo\03ExercicioEscolar\obj\Debug\net9.0\ref\03ExercicioEscolar.dll
