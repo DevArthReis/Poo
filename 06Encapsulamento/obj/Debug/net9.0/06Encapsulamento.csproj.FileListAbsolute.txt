@@ -1,0 +1,15 @@
+C:\Users\arthu\Poo\06Encapsulamento\bin\Debug\net9.0\06Encapsulamento.exe
+C:\Users\arthu\Poo\06Encapsulamento\bin\Debug\net9.0\06Encapsulamento.deps.json
+C:\Users\arthu\Poo\06Encapsulamento\bin\Debug\net9.0\06Encapsulamento.runtimeconfig.json
+C:\Users\arthu\Poo\06Encapsulamento\bin\Debug\net9.0\06Encapsulamento.dll
+C:\Users\arthu\Poo\06Encapsulamento\bin\Debug\net9.0\06Encapsulamento.pdb
+C:\Users\arthu\Poo\06Encapsulamento\obj\Debug\net9.0\06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Poo\06Encapsulamento\obj\Debug\net9.0\06Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\arthu\Poo\06Encapsulamento\obj\Debug\net9.0\06Encapsulamento.AssemblyInfo.cs
+C:\Users\arthu\Poo\06Encapsulamento\obj\Debug\net9.0\06Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Poo\06Encapsulamento\obj\Debug\net9.0\06Encapsulamento.sourcelink.json
+C:\Users\arthu\Poo\06Encapsulamento\obj\Debug\net9.0\06Encapsulamento.dll
+C:\Users\arthu\Poo\06Encapsulamento\obj\Debug\net9.0\refint\06Encapsulamento.dll
+C:\Users\arthu\Poo\06Encapsulamento\obj\Debug\net9.0\06Encapsulamento.pdb
+C:\Users\arthu\Poo\06Encapsulamento\obj\Debug\net9.0\06Encapsulamento.genruntimeconfig.cache
+C:\Users\arthu\Poo\06Encapsulamento\obj\Debug\net9.0\ref\06Encapsulamento.dll
