@@ -5,9 +5,9 @@
         static void Main(string[] args)
         {
             Pessoa obj = new Pessoa();
-            obj.nome = "Arthur";
-            obj.peso = 89.5f;
-            obj.altura = 1.87f;
+            obj.nome = Console.ReadLine();
+            obj.peso = float.Parse(Console.ReadLine());
+            obj.altura =float.Parse(Console.ReadLine());
             Console.WriteLine($"Nome: {obj.nome}");
             Console.WriteLine($"Peso: {obj.peso} kg");
             Console.WriteLine($"Altura: {obj.altura} m");
