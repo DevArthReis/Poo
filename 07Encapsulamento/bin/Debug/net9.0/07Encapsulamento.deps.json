@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "07Encapsulamento/1.0.0": {
+        "runtime": {
+          "07Encapsulamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "07Encapsulamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
