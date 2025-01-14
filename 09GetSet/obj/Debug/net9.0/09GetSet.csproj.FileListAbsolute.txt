@@ -1,0 +1,15 @@
+C:\Users\arthu\Poo\09GetSet\bin\Debug\net9.0\09GetSet.exe
+C:\Users\arthu\Poo\09GetSet\bin\Debug\net9.0\09GetSet.deps.json
+C:\Users\arthu\Poo\09GetSet\bin\Debug\net9.0\09GetSet.runtimeconfig.json
+C:\Users\arthu\Poo\09GetSet\bin\Debug\net9.0\09GetSet.dll
+C:\Users\arthu\Poo\09GetSet\bin\Debug\net9.0\09GetSet.pdb
+C:\Users\arthu\Poo\09GetSet\obj\Debug\net9.0\09GetSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Poo\09GetSet\obj\Debug\net9.0\09GetSet.AssemblyInfoInputs.cache
+C:\Users\arthu\Poo\09GetSet\obj\Debug\net9.0\09GetSet.AssemblyInfo.cs
+C:\Users\arthu\Poo\09GetSet\obj\Debug\net9.0\09GetSet.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Poo\09GetSet\obj\Debug\net9.0\09GetSet.sourcelink.json
+C:\Users\arthu\Poo\09GetSet\obj\Debug\net9.0\09GetSet.dll
+C:\Users\arthu\Poo\09GetSet\obj\Debug\net9.0\refint\09GetSet.dll
+C:\Users\arthu\Poo\09GetSet\obj\Debug\net9.0\09GetSet.pdb
+C:\Users\arthu\Poo\09GetSet\obj\Debug\net9.0\09GetSet.genruntimeconfig.cache
+C:\Users\arthu\Poo\09GetSet\obj\Debug\net9.0\ref\09GetSet.dll
