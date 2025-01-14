@@ -8,8 +8,7 @@ class Banco
     public void menu()
     {
         Console.WriteLine("O que desejas fazer: ");
-        Console.WriteLine("Digite 1 se quer depositar");
-        Console.WriteLine("Digite 2 se quer sacar");
+        Console.WriteLine("Digite:1 para depositar e 2 para sacar");
         op = int.Parse(Console.ReadLine());
         
         
@@ -22,7 +21,7 @@ class Banco
         }
 
     }
-    public void depositar(){
+    private void depositar(){
         Console.WriteLine("Qual o numero da conta que desejas adicionar saldo:  ");
         numeroconta = int.Parse(Console.ReadLine());
         Console.WriteLine("Quanto quer adicionar nesta conta: ");
@@ -30,7 +29,7 @@ class Banco
         Console.WriteLine($"A conta {numeroconta} tem o saldo de {saldo}");
         
     }
-    public void sacar()
+    private void sacar()
     {
         Console.WriteLine("Qual o numero da conta que desejas adicionar saldo:  ");
         numeroconta = int.Parse(Console.ReadLine());
