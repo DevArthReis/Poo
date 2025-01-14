@@ -1,0 +1,15 @@
+C:\Users\arthu\Poo\08Construtor\obj\Debug\net9.0\08Construtor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\Poo\08Construtor\obj\Debug\net9.0\08Construtor.AssemblyInfoInputs.cache
+C:\Users\arthu\Poo\08Construtor\obj\Debug\net9.0\08Construtor.AssemblyInfo.cs
+C:\Users\arthu\Poo\08Construtor\obj\Debug\net9.0\08Construtor.csproj.CoreCompileInputs.cache
+C:\Users\arthu\Poo\08Construtor\obj\Debug\net9.0\08Construtor.sourcelink.json
+C:\Users\arthu\Poo\08Construtor\bin\Debug\net9.0\08Construtor.exe
+C:\Users\arthu\Poo\08Construtor\bin\Debug\net9.0\08Construtor.deps.json
+C:\Users\arthu\Poo\08Construtor\bin\Debug\net9.0\08Construtor.runtimeconfig.json
+C:\Users\arthu\Poo\08Construtor\bin\Debug\net9.0\08Construtor.dll
+C:\Users\arthu\Poo\08Construtor\bin\Debug\net9.0\08Construtor.pdb
+C:\Users\arthu\Poo\08Construtor\obj\Debug\net9.0\08Construtor.dll
+C:\Users\arthu\Poo\08Construtor\obj\Debug\net9.0\refint\08Construtor.dll
+C:\Users\arthu\Poo\08Construtor\obj\Debug\net9.0\08Construtor.pdb
+C:\Users\arthu\Poo\08Construtor\obj\Debug\net9.0\08Construtor.genruntimeconfig.cache
+C:\Users\arthu\Poo\08Construtor\obj\Debug\net9.0\ref\08Construtor.dll
